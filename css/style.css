@@ -443,4 +443,8 @@ img {
   .footer-mail {
     font-size: 20px;
   }
+
+  .copyright {
+    margin-top: 10px;
+  }
 }
